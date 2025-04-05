@@ -3,12 +3,12 @@
 Topics to Cover:
 
 * Basic command-line usage: 
-    * ls 
-    * cd
-    * pwd
-    * man
-    * echo
-    * clear
+    * ```ls```
+    * ```cd```
+    * ```pwd```
+    * ```man```
+    * ```echo```
+    * ```clear```
 * Understanding the file system structure: /, /home, /etc, /usr, /var, /tmp
 * Navigating directories and files
 * File and directory permissions: chmod, chown
