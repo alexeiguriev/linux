@@ -9,10 +9,10 @@ Topics to Cover:
     * ```man```
     * ```echo```
     * ```clear```
-* Understanding the file system structure: /, /home, /etc, /usr, /var, /tmp
+* Understanding the file system structure: ```/```, ```/home```, ```/etc```, ```/usr```, ```/var```, ```/tmp```
 * Navigating directories and files
-* File and directory permissions: chmod, chown
-* Using the manual (man) and help (--help) commands to learn about command usage
+* File and directory permissions: ```chmod```, ```chown```
+* Using the manual (```man```) and help (```--help```) commands to learn about command usage
 
 Practice:
 
