@@ -46,7 +46,9 @@ This does not produce any output but uses the exit status to indicate whether th
 
 1. Show all differences in bytes:
 
+```
 cmp -l file1.txt file2.txt
+```
 
 It will list the byte number and the differing byte values in octal.
 
