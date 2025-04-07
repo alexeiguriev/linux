@@ -48,9 +48,9 @@ This finds all files with the .txt extension in the specified path.
 
 This searches for files larger than 100 MB. The + means "greater than," and you can also use - for "less than."
 
-    * ```k``` for kilobytes (e.g., -size +100k)
-    * ```M``` for megabytes
-    * ```G``` for gigabytes
+    * k for kilobytes (e.g., -size +100k)
+    * M for megabytes
+    * G for gigabytes
 
 1. Find files modified within the last N days:
 
