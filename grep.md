@@ -8,9 +8,9 @@ The find command in Linux is used to search for files and directories based on v
 find [path] [options] [expression]
 ```
 
-* ```[path]```: The directory in which to start the search (e.g., /, /home, . for the current directory).
-* ```[options]```: Various options to control how the search is performed.
-* ```[expression]```: The criteria used to filter the search results (e.g., by file name, type, etc.).
+* [path]: The directory in which to start the search (e.g., /, /home, . for the current directory).
+* [options]: Various options to control how the search is performed.
+* [expression]: The criteria used to filter the search results (e.g., by file name, type, etc.).
 
 **Common Examples:**
 
